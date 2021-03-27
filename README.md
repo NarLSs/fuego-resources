@@ -1,0 +1,2 @@
+# fuego-resources
+ftwcapse
